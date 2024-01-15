@@ -19,8 +19,6 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
-
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
@@ -34,7 +32,7 @@ Sales director wants to know the performance of the company in various Indian st
   
 - Q5. Net Profit & Profit Margin by Market
 
-### Approach - Project Planning & [Aims Grid](https://www.youtube.com/watch?v=6118I9HViuQ)
+### Approach - Project Planning
   
 #### 1. Purpose: What? Why? What do we want to achieve?
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
@@ -98,8 +96,6 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 
 ## Data Analysis Using Tableau 
   
-### Tableau Public Dashboards: [Revenue & Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)  <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>
-
 #### Creating Star Schema in Tableau
 	
 <p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
